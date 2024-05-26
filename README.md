@@ -1,5 +1,6 @@
 # monokai-vscode-settings
 Paste this into vscode settings.json and switch to monokai theme
+```json
 {
     "editor.tokenColorCustomizations": {
         "[Monokai]": {
@@ -35,3 +36,4 @@ Paste this into vscode settings.json and switch to monokai theme
         }
     }
 }
+```
