@@ -1,5 +1,5 @@
-# monokai-vscode-settings
-Paste this into vscode settings.json and switch to monokai theme
+# custom-monokai-vscode-settings
+A colorful costomization to the default vscode monokai theme. To activate paste the following into vscode settings.json and switch to monokai theme
 ```json
 {
     "editor.tokenColorCustomizations": {
