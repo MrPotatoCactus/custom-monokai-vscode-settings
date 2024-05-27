@@ -21,15 +21,15 @@ A colorful costomization to the default vscode monokai theme. To activate paste 
                     }
                 },
                 {
-                    "scope": "variable.other.property, variable.other.enummember",
+                    "scope": "variable.other.property, variable.other.enummember, variable.other.constant.property, meta.member.access",
                     "settings": {
                         "foreground": "#66D9EF"
                     }
                 },
                 {
-                "scope": "entity.name.function.member",
+                "scope": "meta.function-call, entity.name.function.member",
                     "settings": {
-                        "foreground": "#e600ff"
+                        "foreground": "#A6E22E"
                     }
                 },
             ]
