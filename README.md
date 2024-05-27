@@ -4,7 +4,6 @@ A colorful costomization to the default vscode monokai theme. To activate paste 
 {
     "editor.tokenColorCustomizations": {
         "[Monokai]": {
-            "functions": "#e600ff",
             "variables": "#f9fece",
             "strings": "#00ff8c",
             "textMateRules": [
@@ -29,7 +28,7 @@ A colorful costomization to the default vscode monokai theme. To activate paste 
                 {
                 "scope": "meta.function-call, entity.name.function.member",
                     "settings": {
-                        "foreground": "#A6E22E"
+                        "foreground": "#e600ff"
                     }
                 },
             ]
